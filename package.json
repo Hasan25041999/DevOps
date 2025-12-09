@@ -1,0 +1,23 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "Demo Session",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasan25041999/DevOps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasan25041999/DevOps/issues"
+  },
+  "homepage": "https://github.com/Hasan25041999/DevOps#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
